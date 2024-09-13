@@ -9,6 +9,7 @@ This project aims to classify stars based on their spectral type using Logistic 
 The Logistic Regression model built for this task achieved an accuracy of 89.5%, showcasing its effectiveness in distinguishing between different spectral types based on the available features.
 
 **Dataset**
+
 The dataset consists of 240 rows and 7 columns representing various properties of stars:
 
 **Temperature (K)**: The surface temperature of the star.
